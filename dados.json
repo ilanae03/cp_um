@@ -1,0 +1,8 @@
+[
+    {
+        "nome": "João",
+        "idade": 25,
+        "cidade": "São Paulo",
+        "interesses": ["programação", "Viagem", "Fotografia"]
+    }
+]
